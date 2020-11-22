@@ -1,9 +1,11 @@
+package ex1;
+
+import ex1.*;
 import org.junit.jupiter.api.Test;
-import src.*;
+
 import java.util.List;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.assertTrue;
+import static org.junit.jupiter.api.Assertions.*;
 
 class WGraph_AlgoTest {
 
