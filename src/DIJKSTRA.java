@@ -1,4 +1,4 @@
-package ex1;
+package src;
 
 import java.util.*;
 //implement of a Comparator of the type "node_info" to use in priority queue of Dijkstra.

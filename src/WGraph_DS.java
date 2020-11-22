@@ -1,4 +1,4 @@
-package ex1;
+package src;
 
 import org.junit.platform.engine.support.hierarchical.Node;
 
