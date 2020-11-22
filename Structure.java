@@ -1,5 +1,3 @@
-package ex1;
-
 import java.io.File;
 
 public class Structure {
